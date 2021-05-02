@@ -1,2 +1,2 @@
 # EmbeddedSystemProject
-OAMK / Jani Järvi, Jere Jämsä, Aleksi Alavahtola
+OAMK TVT20KMO / Jani Järvi, Jere Jämsä, Aleksi Alavahtola
